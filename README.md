@@ -16,8 +16,12 @@ Chillnet Double Plus is designed to keep the site familiar while giving you more
 
 - **Theme Playground:** Switch between Original, Dark, Brown, Pink, Aurora, and Olden modes whenever you want.
 
-![Theme modes preview](res/themes.png)
-_Theme presets in action._
+<p align="center">
+  <img src="res/themes.png" alt="Theme modes preview" width="640">
+</p>
+<blockquote>
+  <p>Theme presets in action.</p>
+</blockquote>
 
 - **Filter Your Feed:** Block by username and block by phrase across post content.
 - **Filter Comments Too:** Comment threads are filtered with summary counts, including detached permalink comment threads.
@@ -29,8 +33,12 @@ _Theme presets in action._
 - **Embed Limits:** Set max embeds per post from 1 to 6.
 - **Cleaner Links:** Plain URLs are auto-linkified with compact middle-elided labels and hover tooltips.
 
-![Inline embeds preview](res/imageembed.png)
-_Inline media rendering inside the feed._
+<p align="center">
+  <img src="res/imageembed.png" alt="Inline embeds preview" width="640">
+</p>
+<blockquote>
+  <p>Inline media rendering inside the feed.</p>
+</blockquote>
 
 ## Using the Control Panel
 
@@ -38,8 +46,12 @@ _Inline media rendering inside the feed._
 - Or use the **Double Plus** launcher in Chillnet's left rail.
 - Theme, filtering, and embed controls live in one panel so tuning stays quick.
 
-![Settings panel preview](res/preferences.png)
-_Theme, filtering, and embed controls in one place._
+<p align="center">
+  <img src="res/preferences.png" alt="Settings panel preview" width="640">
+</p>
+<blockquote>
+  <p>Theme, filtering, and embed controls in one place.</p>
+</blockquote>
 
 ## Contributing & Support
 
